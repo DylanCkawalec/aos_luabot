@@ -24,10 +24,7 @@ The Grid can express an instance of memory, but it's bound to runtime execution.
 https://developer.aleo.org/testnet/getting_started/deploy_execute
 
 
-
-
-
-# Aos Hacker Death Match
+# What's Cool About this
 
 This guide will walk you through the setup process for the Aos Hacker Death Match. Follow each command and prompt the admin when necessary to register. The commands in the terminal will execute smoothly.
 
