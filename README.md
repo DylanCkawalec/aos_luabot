@@ -16,7 +16,8 @@ The Grid can express an instance of memory, but it's bound to runtime execution.
 ### rust can be useful for lua bot smart contracts
 - just can help solve this problem with memory contraints. If all bot's were to be interpreted by a serialization process, the terminal can execute commands hidden to the user. This is local execution, and rust comes with many terminal interface commands that can CRUD on the internet locally and still interface with mainnet effectively. 
 
-### the OS can be supported by a software CPU, that uses the MIPS architecture to run GoLang, Solidity, or Assembly to execute constractual like agreements where there is a full proof of execution that is untracable to the client side execution. 
+### the OS can be supported by a software CPU, 
+- uses the MIPS architecture to run GoLang, Solidity, or Assembly to execute constractual like agreements where there is a full proof of execution that is untracable to the client side execution. 
 
 ### Aleo can be a local testnet prover, and print encrypted record's on mainnet explorer's or on Arweave Storage. 
 -- that title sort of expresses the entire thought. Yes, we can have a zero knowledge software CPU driving execution of programs local to the client compiling a proof of their operations (contract). this computation can create an output in a binary that can be ran by anyone, as long as they have the proof. The proving network can pass the encrypted Binary, after a local or decentralized sequencer has transition the data binary into JSON format, and into the slots by command line arguments. 
@@ -25,12 +26,6 @@ https://developer.aleo.org/testnet/getting_started/deploy_execute
 
 
 # What's Cool About this
-
-This guide will walk you through the setup process for the Aos Hacker Death Match. Follow each command and prompt the admin when necessary to register. The commands in the terminal will execute smoothly.
-
-## Documentation
-
-For information on how to host your own server farm match making, refer to the relevant documentation. You can win tokens as rewards or gamify the grid, handlers, and other map coordinates.
 
 ## 3D Terminal Maps
 
